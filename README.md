@@ -1,38 +1,72 @@
-## Hi, I'm Antoine
+# Hi, I'm Antoine
 
-I'm a 21 year old developer based in France, I'm a pro-MacOS and I'm passionate about new technologies and discovering new things.
-I'm currently pursuing a Master's degree in Artificial Intelligence and Big Data.
+Data & Software Engineer with a focus on building end-to-end data solutions. Currently completing my Data Engineering degree while specializing in AI and Big Data. I combine expertise in data pipeline development, machine learning operations, and full-stack development to create scalable, data-driven applications. Passionate about automation, infrastructure as code, and implementing modern data architectures.
 
-# ✨My stats
-![Stats](https://github-readme-stats.vercel.app/api?username=AntoineTSIO&show_icons=true&locale=en&theme=midnight-purple)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AntoineTSIO&show_icons=true&locale=en&layout=compact&theme=midnight-purple)
+## My Statistics
 
-# ✨My skills
+![AntoineTSIO's Stats](https://github-readme-stats.vercel.app/api?username=AntoineTSIO&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![AntoineTSIO's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AntoineTSIO&theme=tokyonight&hide_border=false)
+![AntoineTSIO's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineTSIO&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-## Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=py,java,html,css,js,ts,php,c,scala,md,r,sql)
+## My Skills & Technologies
 
-## Databases and Storage
-![Databases and Storage](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite)
+### Data Engineering & Analytics
+- **Languages**: Python, R, Scala
+- **Data Processing**: Pandas, Polars, Custom Data Processing Framework
+- **Data Pipeline**: DBT, Data Modeling, ETL/ELT
+- **Business Intelligence**: Data Analysis, Data Visualization
 
-## Machine Learning, Deep Learning
-![Machine Learning, Deep Learning](https://skillicons.dev/icons?i=tensorflow,pytorch)
+### AI & Machine Learning
+- **Frameworks**: TensorFlow, PyTorch
+- **API Development**: FastAPI
+- **Model Deployment**: ML Pipeline Design, Model Serving
 
-## Web Development
-![Web Development](https://skillicons.dev/icons?i=react,flask,wordpress,webflow,fastapi,symfony,bootstrap)
+### Databases & Storage
+- **SQL**: PostgreSQL, MySQL, SQL Server
+- **NoSQL**: MongoDB, Redis
+- **Data Modeling**: Database Architecture, Schema Design
 
-## Version Control
-![Version Control](https://skillicons.dev/icons?i=git,github,bitbucket)
+### DevOps & Monitoring
+- **Containerization**: Docker
+- **Monitoring Stack**: 
+  - Grafana, Prometheus, cAdvisor
+  - ELK Stack (Elasticsearch, Logstash, Kibana)
+- **CI/CD**:
+  - GitHub Actions
+  - Bitbucket Pipelines
+  - Jenkins
 
-## Cloud and Infrastructure
-![Cloud and Infrastructure](https://skillicons.dev/icons?i=aws,gcp,cloudflare,heroku,docker,)
+### Cloud & Infrastructure
+- **Cloud Platforms**: 
+  - Amazon Web Services (AWS)
+  - Google Cloud Platform (GCP)
+  - Microsoft Azure
+- **Infrastructure**: Terraform, Server Management
 
+### Development
+- **Mobile**: Flutter (iOS & Android)
+- **Web**: TypeScript, JavaScript
+- **Version Control**: Git
 
-## Tools
-![](https://skillicons.dev/icons?i=vscode,idea,androidstudio,gradle,maven,figma)
+### Development Tools
+- **IDEs**:
+  - VS Code
+  - IntelliJ IDEA
+  - CLion
+  - DataSpell
+  - PyCharm
+- **SQL Tools**:
+  - SQL Pro Studio
+  - DataGrip
+  - SQL Server Management Studio
+  - Azure Data Studio
 
-## Others
-![Others](https://skillicons.dev/icons?i=bots,linux,bash,powershell,raspberrypi,regex)
+### Media Server Management
+- **Plex Stack**:
+  - Core: Plex Media Server
+  - Management: Radarr, Sonarr, Readarr
+  - Utilities: Overseerr, Prowlarr, Bazarr, qBittorrent
 
-# 📫 Contact
-[![Programming Languages](https://skillicons.dev/icons?i=discord)](https://discord.com/invite/zdGMZrxS)
+### Other Skills
+- **Bot Development**: Discord Bots (TypeScript)
+- **Automation**: Shell Scripting, Process Automation
