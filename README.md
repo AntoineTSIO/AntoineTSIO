@@ -1,19 +1,20 @@
-# Hi, I'm Antoine
+# Hi, I'm Antoine 👋
 
 Data & Software Engineer with a focus on building end-to-end data solutions. Currently completing my Data Engineering degree while specializing in AI and Big Data. I combine expertise in data pipeline development, machine learning operations, and full-stack development to create scalable, data-driven applications. Passionate about automation, infrastructure as code, and implementing modern data architectures.
 
 ## My Statistics
 
 ![AntoineTSIO's Stats](https://github-readme-stats.vercel.app/api?username=AntoineTSIO&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![AntoineTSIO's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AntoineTSIO&theme=tokyonight&hide_border=false)
 ![AntoineTSIO's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineTSIO&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![AntoineTSIO's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AntoineTSIO&theme=tokyonight&hide_border=false)
 
-## My Skills & Technologies
+## Skills & Technologies
 
 ### Data Engineering & Analytics
 - **Languages**: Python, R, Scala
 - **Data Processing**: Pandas, Polars, Custom Data Processing Framework
 - **Data Pipeline**: DBT, Data Modeling, ETL/ELT
+- **Workflow Orchestration**: Apache Airflow
 - **Business Intelligence**: Data Analysis, Data Visualization
 
 ### AI & Machine Learning
@@ -28,7 +29,7 @@ Data & Software Engineer with a focus on building end-to-end data solutions. Cur
 
 ### DevOps & Monitoring
 - **Containerization**: Docker
-- **Monitoring Stack**: 
+- **Monitoring Stack**:
   - Grafana, Prometheus, cAdvisor
   - ELK Stack (Elasticsearch, Logstash, Kibana)
 - **CI/CD**:
@@ -37,7 +38,7 @@ Data & Software Engineer with a focus on building end-to-end data solutions. Cur
   - Jenkins
 
 ### Cloud & Infrastructure
-- **Cloud Platforms**: 
+- **Cloud Platforms**:
   - Amazon Web Services (AWS)
   - Google Cloud Platform (GCP)
   - Microsoft Azure
