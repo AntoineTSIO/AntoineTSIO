@@ -23,7 +23,7 @@ Data & Software Engineer with a focus on building end-to-end data solutions. Cur
 - **Model Deployment**: ML Pipeline Design, Model Serving
 
 ### Databases & Storage
-- **SQL**: PostgreSQL, MySQL, SQL Server
+- **SQL**: PostgreSQL, MySQL, Microsoft SQL Server
 - **NoSQL**: MongoDB, Redis
 - **Data Modeling**: Database Architecture, Schema Design
 
