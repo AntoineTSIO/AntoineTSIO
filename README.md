@@ -3,7 +3,9 @@
 Data & Software Engineer with a focus on building end-to-end data solutions. Currently completing my Data Engineering degree while specializing in AI and Big Data. I combine expertise in data pipeline development, machine learning operations, and full-stack development to create scalable, data-driven applications. Passionate about automation, infrastructure as code, and implementing modern data architectures.
 
 ## My Statistics
-![AntoineTSIO's Stats](github-metrics.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=AntoineTSIO&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="AntoineTSIO's Stats" width="350" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AntoineTSIO&theme=tokyonight&hide_border=false" alt="AntoineTSIO's Streak" width="350" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineTSIO&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="AntoineTSIO's Top Languages" width="350" />
 
 
 ## Skills & Technologies
